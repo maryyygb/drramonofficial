@@ -1,0 +1,346 @@
+.about-a {
+    display: flex;
+    min-height: 93vh;
+    background-color: rgba(33, 139, 130, 0.496);
+    background-image: url('/images/aboutbg.jpg');
+    background-blend-mode: multiply;
+    background-position-y: 75%;
+}
+
+.ab-a-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: #eaeaeaed;
+    padding: 3rem 18rem;
+}
+
+.ab-a-content > h2 {
+    font-size: 5rem;
+    font-weight: 700;
+    margin: 1rem;
+}
+
+.ab-a-content > p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-align: justify;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+
+/* ##########
+
+ about b part 
+ 
+ ########## */
+
+ .about-b {
+    background: #A6E0E2;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.ab-b-con {
+     color: #218b82;
+     display: flex;
+     justify-content: center;
+     gap: 3rem;
+ }
+
+ .ab-b-con a {
+    text-decoration: none;
+    color: #218B82;
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+/* ************ Scroll Effect ************ */
+
+#tourmap, #awards, #events, #staff {
+    scroll-behavior: smooth;
+    scroll-margin-top: 7rem;
+}
+
+
+/* ##########
+
+ about c part 
+ 
+ ########## */
+
+.ab-c-video {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.ab-c-video video {
+    border: 8px solid #218B82;
+}
+
+.ab-c-foot {
+    display: flex;
+    justify-content: center;
+}
+
+.ab-c-foot h2 {
+    background: #218B82;
+    padding: 10px;
+    color: #f5f5f5;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    width: 50%;
+    text-align: center;
+}
+
+
+/* ##########
+
+ about d part 
+ 
+ ########## */
+
+ .about-c-d {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+ }
+
+ .ab-d-box {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+ }
+
+ .ab-d-box img {
+    width: 500px;
+    height: 500px;
+ }
+
+
+
+ /* ##########
+
+ about e part 
+ 
+ ########## */
+ 
+ .ab-e-con {
+    margin: 3rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 0 2rem 0 3rem;
+ }
+
+ .ab-e-box {
+    display: flex;
+    gap: 3rem;
+ }
+
+ .abe-left {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+ }
+
+ .abe-tea-head {
+    color: #0a554f;
+    
+ }
+
+ .ab-e-item {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+ }
+ 
+ .ab-e-item > img {
+    border-radius: 50%;
+    width: 180px;
+    border: 4px solid #218B82;
+ }
+
+ .abe-right {
+    background: #98D4BB;
+    width: 80%;
+    padding: 1rem;
+    border: 5px solid #218B82;
+ }
+
+ .abe-list {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    border-bottom: 2px solid #0a554f;
+    padding-bottom: 6px;
+ }
+ 
+ .abe-list-last {
+    border-bottom: none;
+ }
+
+ .ab-e-teacher > img {
+     border-radius: 50%;
+     width: 70px;
+     border: 2px solid #218B82;
+    }
+    
+.abe-tea-name {
+   text-align: center;
+   font-size: 1rem;
+   font-weight: 600;
+}
+
+.abe-tea-role {
+    text-align: center;
+    font-size: .8rem;
+}
+
+.ab-e-teacher {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 15%;
+    gap: 3px;
+}
+
+.allteapic {
+    background: #106a63;
+    color: #f5f5f5;
+    font-size: 1.4rem;
+    font-weight: 700;
+    padding: .5rem;
+    width: 86%;
+    text-align: center;
+}
+
+.ab-e-allteapic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.ab-e-allteapic > img {
+    width: 1300px;
+    height: 600px;
+    object-position: center;
+    object-fit: cover;
+}
+
+ /* ##########
+
+ about f part 
+ 
+ ########## */
+
+ .about-f {
+    margin: 2rem 2rem 4rem;
+ }
+
+ .about-f-item > img {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+ }
+
+ .about-f-part-con {
+    display: flex;
+    gap: 3rem;
+    margin: 2rem;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .about-f-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #f5f5f5;
+    background: #218B82;
+ }
+
+ .about-f-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    padding: 0 1rem 1rem 1rem;
+    gap: 3px;
+ }
+
+.ab-f-date {
+    font-style: italic;
+    font-weight: 500;
+}
+
+ .ab-f-des {
+    text-align: justify;
+ }
+
+
+  /* ##########
+
+ about g part 
+ 
+ ########## */
+
+.about-g-con {
+    margin: 2rem 3rem 3rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    background: #E7D1D6;
+    padding: 1.5rem;
+}
+
+.about-g-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.about-g-items > img {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: .5rem;
+}
+
+.about-g-title {
+    color: #f5f5f5;
+    text-align: center;
+    background: #C35770;
+    padding: 3px 1.5rem;
+    margin-bottom: 5px;
+}
+
+.about-g-des {
+    color: #ffffff;
+    text-align: justify;
+}
+ 
+  /* ##########
+
+ about e part 
+ 
+ ########## */

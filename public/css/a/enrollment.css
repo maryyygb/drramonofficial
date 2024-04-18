@@ -1,0 +1,243 @@
+.enrollment-con {
+    padding-top: 6rem;
+    text-align: center;
+}
+
+.enrollment-sec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffff;
+    margin: 0 6rem 6rem;
+    padding: 0 4rem 2rem;
+}
+
+.enrollment-con > h1 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #0a5650;
+}
+
+.enroll-form-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding-left: 6rem;
+    margin-bottom: 1rem;
+}
+
+.en-fo-one-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.en-fo-one-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.enrollment-head {
+    font-size: .7rem;
+    font-weight: 700;
+    color: #ffff;
+    text-align: center;
+    margin: 2rem;
+    background: #0c7275ad;
+    padding: .3rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* two */
+
+.enroll-form-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color: #0a5650; */
+    width: 90%;
+    align-items: center;
+    margin-left: 3.5rem;
+    /* gap: 1rem; */
+}
+
+.en-form-boxt {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-left: 2.5rem; */
+    gap: 1rem;
+    width: 100%;
+}
+
+.en-form-boxt-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    /* margin-left: 6rem; */
+}
+
+.en-form-box-list-f {
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+}
+
+.en-form-box-list {
+    display: flex;
+    gap: 4rem;
+}
+
+.en-fo-two-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .2rem;
+}
+
+.en-form-box-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+/* three */
+
+.en-form-con-three {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.en-form-box-three {
+    display: flex;
+    gap: 4rem;
+    margin-left: 6rem;
+}
+
+.en-form-three-list {
+    display: flex;
+    flex-direction: column;
+}
+
+/* four */
+
+.enrollment-sub {
+    font-size: 1.2rem;
+    color: #0a5650;
+    font-weight: 700;
+    margin-left: 4rem;
+}
+
+.en-form-box-four {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.en-form-con-four {
+    display: flex;
+    gap: 1rem;
+}
+
+.en-form-con-four {
+    display: flex;
+    margin-left: 6rem;
+}
+
+/* btn */
+
+.enroll-form-submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.enroll-form-btn {
+    padding: 2px;
+    font-size: 1rem;
+    color: #C35770;
+    font-weight: 700;
+    margin: 2rem;
+    cursor: pointer;
+}
+
+.enrollment-sec form label {
+    color: #0a5650;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-right: 1rem;
+}
+
+.enrollment-sec form input[type="text"] {
+    text-align: center;
+    /* background: #0a5650; */
+    color: #0a5650;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 2px #0a5650;
+    padding: 2px;
+    font-size: 1rem;
+}
+
+.enrollment-sec form input[type="date"] {
+    text-align: center;
+    background: #0a5650;
+    color: #fff;
+    padding: 2px;
+    font-size: 1rem;
+}
+
+.enrollment-sec form input[type="date"]::placeholder {
+    text-align: center;
+    background: #0a5650;
+    color: rgb(162, 162, 162)
+}
+
+.enrollment-sec form input[type="text"]::placeholder {
+    text-align: center;
+    background: #0a5650;
+    color: rgb(162, 162, 162)\;
+}
+
+
+.enrollment-sec form input[type="date"]:focus {
+    text-align: center;
+    background: ;
+    color: #fff;
+}
+
+.enrollment-sec form input[type="text"]:focus {
+    text-align: center;
+    background: #fff;
+    color: #0a5650;
+    border-bottom: 2px solid #0a5650;
+}
+
+.enrollment-sec form input[type="submit"] {
+    border: solid 2px #0a5650;
+    border-radius: 5px;
+    background: #0a5650;
+    text-align: center;
+    padding: .3rem 6rem;
+    font-size: 1rem;
+    color: #fff;
+}
+
+.enrollment-sec form input[type="submit"]:hover {
+    background-color: #C35770;
+    color: #fff;
+    border: solid 2px #C35770;
+}

@@ -1,0 +1,193 @@
+/* ##########
+
+ acad a part 
+ 
+ ########## */
+
+.acad-a {
+    display: flex;
+    min-height: 100vh;
+    background-color: rgba(33, 139, 130, 0.496);
+    background-image: url('/images/acad.jpg');
+    background-blend-mode: multiply;
+    background-position-y: 75%;
+}
+
+/* ##########
+
+ acad b part 
+ 
+ ########## */
+
+ .acad-b {
+    margin-bottom: 2rem;
+ }
+
+.acad-b-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.acad-b-nav {
+    color: #f5f5f5;
+    font-size: 1.5rem;
+    font-weight: 700;
+    width: 50%;
+    padding: .8rem;
+    text-decoration: none;
+    text-align: center;
+}
+
+.acad-nav-a {
+    background-color: #218B82;
+}
+
+.acad-nav-b {
+    background-color: #f5f5f5;
+    color: #218B82;
+}
+
+/* ##########
+
+ acad c part 
+ 
+ ########## */
+
+
+ .acad-c {
+    margin: 1rem;
+ }
+
+ .acad-c-box {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+ }
+
+ .acad-c-con-mid {
+    margin: 2rem;
+ }
+
+.acad-c-items {
+    width: 22%;
+}
+
+ .acad-c-box video {
+    width: 1000px;
+    margin: 2rem;
+    border: 5px solid #218B82;
+ }
+
+ .acad-items-a {
+    background-color: #7EC0A4;
+ }
+
+ .acad-items-b {
+    background-color: #DB95A6;
+ }
+
+ .acad-items-c {
+    background-color: #8BC087;
+ }
+
+ .acad-items-d {
+    background-color: #7BC4C6;
+ }
+
+.acad-c-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.acad-c-list-des {
+    text-align: justify;
+    color: #ffffff;
+    width: 313px;
+    padding: .5rem 1.5rem 1.5rem;
+}
+
+.acad-c-list-header {
+    color: #ffff;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 10px 0 .8rem 0;
+    width: 315px;
+    text-align: center;
+}
+
+.acad-c-list > img {
+    width: 312px;
+}
+
+
+ /* ##########
+
+ acad d part - senior high school
+ 
+ ########## */
+
+ .acad-items-ac {
+    background-color: #4e9275;
+ }
+
+ .acad-items-bc {
+    background-color: #b46679;
+ }
+
+ .acad-items-cc {
+    background-color: #5e9a5a;
+ }
+
+ .acad-items-dc {
+    background-color: #4e999b;
+ }
+
+
+  /* ##########
+
+ acad d part 
+ 
+ ########## */
+
+ .acad-e {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
+
+.acad-e-tvl {
+    background: #218B45;
+    padding: 8px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-align: center;
+    width: 70%;
+    color: #f5f5f5;
+}
+
+.acad-e-list {
+    display: flex;
+    justify-content: center;
+}
+
+.im {
+    margin-right: 2rem;
+}
+
+.acad-e-list {
+    margin: -.8rem;
+}
+
+.acad-e-list > i {
+    margin-left: 3rem;
+}
+
+/* ##########
+
+ acad b part 
+ 
+ ########## */
