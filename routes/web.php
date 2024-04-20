@@ -100,3 +100,7 @@ Route::prefix('teacher')->group(function () {
     Route::get('/login', [TeacherController::class, 'login'])->name('teacher_login');
     Route::post('/login-submit', [TeacherController::class, 'login_submit'])->name('teacher_login_submit');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
