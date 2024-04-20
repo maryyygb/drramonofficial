@@ -28,7 +28,7 @@ use App\Http\Controllers\EventController;
 // });
 
 Route::get('/', function () {
-    return view('parts.a-front');
+    return view('parts.index');
 });
 
 // ROUTES TO DIFFERENT NAV-LINKS //
