@@ -31,7 +31,7 @@
                 </div>
                 <div class="acad-c-list">
                     <h2 class="acad-c-list-header">Grade 7</h2>
-                    <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p>
+                    <!-- <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p> -->
                 </div>
             </div>
             <div class="acad-c-items acad-items-b">
@@ -40,7 +40,7 @@
                 </div>
                 <div class="acad-c-list">
                     <h2 class="acad-c-list-header">Grade 8</h2>
-                    <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p>
+                    <!-- <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p> -->
                 </div>
             </div>
             <div class="acad-c-items acad-items-c">
@@ -49,7 +49,7 @@
                 </div>
                 <div class="acad-c-list">
                     <h2 class="acad-c-list-header">Grade 9</h2>
-                    <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p>
+                    <!-- <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p> -->
                 </div>
             </div>
             <div class="acad-c-items acad-items-d">
@@ -58,7 +58,7 @@
                 </div>
                 <div class="acad-c-list">
                     <h2 class="acad-c-list-header">Grade 10</h2>
-                    <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p>
+                    <!-- <p class="acad-c-list-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde neque animi quia eveniet at quisquam soluta, beatae enim assumenda quibusdam voluptatum corrupti facilis perspiciatis eaque vero qui! In, eum.</p> -->
                 </div>
             </div>
         </div>

@@ -35,20 +35,12 @@
                     <li><a href="/past-events">PAST EVENTS</a></li>
                 </ul> -->
         </li>
+        <li>
+            <a href="/enrollment/create">ENROLLMENT</a>
+        </li>
         <!-- <li>
-                <a href="#">CONTACTS</a>
-                <ul class="dropdown">
-                    <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                </ul>
-            </li> -->
-        <li>
-            <a href="/enrollment">ENROLLMENT</a>
-        </li>
-        <li>
             <a href="/login" class="login">LOGIN</a>
-        </li>
+        </li> -->
     </ul>
     <div class="search-box">
         <form action="">

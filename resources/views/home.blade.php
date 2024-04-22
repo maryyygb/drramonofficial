@@ -16,7 +16,9 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    <!-- {{ __('You are logged in!') }} -->
+                    
+                    <a href="/enrollment-list">See Enrollment List</a>
                 </div>
             </div>
         </div>

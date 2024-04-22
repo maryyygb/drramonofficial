@@ -115,10 +115,12 @@ nav ul li a:hover {
 
 nav ul li .login {
     text-shadow: none;
-    padding: 8px;
+    padding: 5px 1rem;
     border-radius: 20px;
     color: #f5f5f5;
     background: #218B82;
+    /* width: 5rem;
+    font-size: 2rem; */
 }
 
 nav ul li .login:hover {
@@ -222,7 +224,7 @@ nav li:hover > .dropdown li:nth-child(5) {
 
 @media(max-width:1024px) {
     html {
-        overflow: hidden;
+        /* overflow: hidden; */
     }
     body {
         width: 1024px;
@@ -242,7 +244,8 @@ nav li:hover > .dropdown li:nth-child(5) {
         position: fixed;
         top: 72px;
         right: -200%;
-        background: rgba(85, 136, 46, 0.403);
+        /* background: rgba(85, 136, 46, 0.403); */
+        background: #A6E0E2;
         height: calc(100vh - 100px);
         width: 50%;
         flex-direction: column;
@@ -257,6 +260,12 @@ nav li:hover > .dropdown li:nth-child(5) {
     #chk1:checked ~ ul {
         right: 0;
     }
+    .description {
+        position: absolute;
+        top: 50%;
+        left: 60px;
+        transform: translateY(-50%);
+     }
 }
 
 @media(max-width: 600px) {
@@ -266,5 +275,15 @@ nav li:hover > .dropdown li:nth-child(5) {
     }
     nav .menu {
         margin-right: 2rem;
+    }
+
+    /* ENROLLMENT */
+    .enrollment-sec {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ffff;
+        margin: 0 2rem 6rem;
+        padding: 0 4rem 2rem;
     }
 }

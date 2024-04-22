@@ -64,54 +64,57 @@
         <h1>EVENTS</h1>
     </div>
     <div class="t-part-con">
+
         <div class="tp-items">
             <div class="tp-list">
-                <img src="{{ asset('images/jh.jpg') }}" alt="" width="250" height="180">
+                <img src="{{ asset('images/evict.png') }}" alt="" width="300" height="180">
             </div>
             <div class="tp-list">
-                <h2>Put the title Here 2023-2024</h2>
-                <p class="tp-list-date">March 24, 2024</p>
+                <h2>Special Program in Information and Communications Technology (SP-ICT) </h2>
+                <p class="tp-list-date">April 15, 2024</p>
                 <p class="tp-list-des">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi adipisci illo blanditiis dolore laudantium dolor aliquid error. Consectetur dicta voluptas eveniet cupiditate molestiae sapiente laudantium cum consequatur amet quidem?
+                    Screening of Grade 7 Applicants for SY 2024-2025
+                    The Screening and Admission Test is on May 4, 2024.
                 </p>
                 <a href="#" class="read-bt">Read More!</a>
             </div>
         </div>
         <div class="tp-items">
             <div class="tp-list">
-                <img src="{{ asset('images/jh.jpg') }}" alt="" width="300" height="180">
+                <img src="{{ asset('images/evsining.jpg') }}" alt="" width="300" height="180">
             </div>
             <div class="tp-list">
-                <h2>Put the title Here 2023-2024</h2>
-                <p class="tp-list-date">March 24, 2024</p>
+                <h2>Division Festival of Talents 2024!</h2>
+                <p class="tp-list-date">April 12, 2024</p>
                 <p class="tp-list-des">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi adipisci illo blanditiis dolore laudantium dolor aliquid error. Consectetur dicta voluptas eveniet cupiditate molestiae sapiente laudantium cum consequatur amet quidem?
+                    A round of applause to these Ramonian students who competed in the recently concluded Division Festival of Talents 2024!
                 </p>
                 <a href="#" class="read-bt">Read More!</a>
             </div>
         </div>
         <div class="tp-items">
             <div class="tp-list">
-                <img src="{{ asset('images/jh.jpg') }}" alt="" width="300" height="180">
+                <img src="{{ asset('images/evvolley.jpg') }}" alt="" width="300" height="180">
             </div>
             <div class="tp-list">
-                <h2>Put the title Here 2023-2024</h2>
+                <h2>Secondary Volleyball Girls Provincial Athletic</h2>
                 <p class="tp-list-date">March 24, 2024</p>
                 <p class="tp-list-des">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi adipisci illo blanditiis dolore laudantium dolor aliquid error. Consectetur dicta voluptas eveniet cupiditate molestiae sapiente laudantium cum consequatur amet quidem?
+                    Congratulations to our very own Ramonian Women’s Volleyball Team for winning the Silver Medal in the Secondary Volleyball Girls Provincial Athletic meet at Palayan City, Nueva Ecija.
                 </p>
                 <a href="#" class="read-bt">Read More!</a>
             </div>
         </div>
         <div class="tp-items">
             <div class="tp-list">
-                <img src="{{ asset('images/jh.jpg') }}" alt="" width="300" height="180">
+                <img src="{{ asset('images/ev1.jpg') }}" alt="" width="250" height="180">
             </div>
             <div class="tp-list">
-                <h2>Put the title Here 2023-2024</h2>
-                <p class="tp-list-date">March 24, 2024</p>
+                <h2>4th Place Overall CD 1 Press Conference
+                </h2>
+                <p class="tp-list-date">Februaury 24, 2024</p>
                 <p class="tp-list-des">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione eligendi adipisci illo blanditiis dolore laudantium dolor aliquid error. Consectetur dicta voluptas eveniet cupiditate molestiae sapiente laudantium cum consequatur amet quidem?
+                    Headlines filled with pride! Kudos to our Ramonian journalist for their outstanding achievement at the 2024 CD 1 Schools Press Conference. Padayon!
                 </p>
                 <a href="#" class="read-bt">Read More!</a>
             </div>
@@ -133,23 +136,23 @@
             </div>
             <div class="f-part-list">
                 <div class="fpl-box">
-                    <img src="{{ asset('images/sh.jpg') }}" alt="" width="300" height="150">
+                    <img src="{{ asset('images/blogesport.jpg') }}" alt="" width="300" height="150">
                 </div>
                 <div class="fpl-box">
-                    <p class="fpl-date">March 23, 2024</p>
-                    <h2 class="fpl-title">Is the Field Trip approved?</h2>
-                    <p class="fpl-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo modi laudantium iure unde repellendus id perferendis nam vitae.</p>
+                    <p class="fpl-date">March 24, 2024</p>
+                    <h2 class="fpl-title">First Esport Team Clinching the Gold</h2>
+                    <p class="fpl-des">Congratulations to our first Esports Team for clinching the GOLD at the Nueva Ecija Provincial Meet 2024!</p>
                     <a href="" class="read-bt-fourth">Read More!</a>
                 </div>
             </div>
             <div class="f-part-list">
                 <div class="fpl-box">
-                    <img src="{{ asset('images/sh.jpg') }}" alt="" width="300" height="150">
+                    <img src="{{ asset('images/blogat.jpg') }}" alt="" width="300" height="150">
                 </div>
                 <div class="fpl-box">
-                    <p class="fpl-date">March 23, 2024</p>
-                    <h2 class="fpl-title">Is the Field Trip approved?</h2>
-                    <p class="fpl-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo modi laudantium iure unde repellendus id perferendis nam vitae.</p>
+                    <p class="fpl-date">March 20, 2024</p>
+                    <h2 class="fpl-title">Ramonian Athletes</h2>
+                    <p class="fpl-des">Let’s pray and cheer our Ramonian Athletes as they compete for the Nueva Ecija Provincial Athletic Meet 2024! </p>
                     <a href="" class="read-bt-fourth">Read More!</a>
                 </div>
             </div>
@@ -165,23 +168,24 @@
             </div>
             <div class="f-part-list">
                 <div class="fpl-box">
-                    <img src="{{ asset('images/sh.jpg') }}" alt="" width="300" height="150">
+                    <img src="{{ asset('images/newsbasket.png') }}" alt="" width="300" height="150">
                 </div>
                 <div class="fpl-box">
                     <p class="fpl-date">March 23, 2024</p>
-                    <h2 class="fpl-title">Is the Field Trip approved?</h2>
-                    <p class="fpl-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo modi laudantium iure unde repellendus id perferendis nam vitae.</p>
+                    <h2 class="fpl-title">Women's 3x3 Basketball</h2>
+                    <p class="fpl-des">History makers! Our Women's 3x3 Basketball team secures their place in the record books with a phenomenal third consecutive gold at the Provincial Meet. Congratulations! 🏆
+                    </p>
                     <a href="" class="read-bt-fourth">Read More!</a>
                 </div>
             </div>
             <div class="f-part-list">
                 <div class="fpl-box">
-                    <img src="{{ asset('images/sh.jpg') }}" alt="" width="300" height="150">
+                    <img src="{{ asset('images/newsbkd.jpg') }}" alt="" width="300" height="150">
                 </div>
                 <div class="fpl-box">
-                    <p class="fpl-date">March 23, 2024</p>
-                    <h2 class="fpl-title">Is the Field Trip approved?</h2>
-                    <p class="fpl-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo modi laudantium iure unde repellendus id perferendis nam vitae.</p>
+                    <p class="fpl-date">March 15, 2024</p>
+                    <h2 class="fpl-title">BKD Family</h2>
+                    <p class="fpl-des">Gratitude to our BKD , YES-O , SSLG , MAPEH CLUB , AND OTHER STUDENTS for  their dedication in leading the clean-up drive, preparing for the mural painting contest.</p>
                     <a href="" class="read-bt-fourth">Read More!</a>
                 </div>
             </div>
@@ -193,7 +197,7 @@
 </div>
 
 <!-- fifth part -->
-<div class="e-part">
+<!-- <div class="e-part">
     <div class="spart-h2">
         <h1>SCHOOL HUB | LATEST TALK</h1>
     </div>
@@ -217,12 +221,7 @@
                 <p class="ep-box-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit nobis itaque aspernature.</p>
                 <div class="comment-section">
                     <p class="com-head">Write a comment.</p>
-                    <!-- <div class="comment-sec-con">
-                        <form action="POST" method="">
-                            <input type="text" name="comment" id="comment" placeholder="Write your comment here." minlength="3" required>
-                            <button type="submit">Send</button>
-                        </form>
-                    </div> -->
+
                     <div class="comment-sec-con">
                         <form action="POST" method="">
                             <input type="text" name="comment" id="hp-review" placeholder="Write your comment here." minlength="3" required>
@@ -251,12 +250,6 @@
                 <p class="ep-box-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit nobis itaque aspernature. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid eligendi quos eum officia illo. Reiciendis, officia numquam!</p>
                 <div class="comment-section">
                     <p class="com-head">Write a comment.</p>
-                    <!-- <div class="comment-sec-con">
-                        <form action="POST" method="">
-                            <input type="text" name="comment" id="comment" placeholder="Write your comment here." minlength="3" required>
-                            <button type="submit">Send</button>
-                        </form>
-                    </div> -->
                     <div class="comment-sec-con">
                         <form action="POST" method="">
                             <input type="text" name="comment" id="hp-review" placeholder="Write your comment here." minlength="3" required>
@@ -267,7 +260,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- sixth part -->
 <div class="g-part">
