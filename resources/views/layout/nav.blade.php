@@ -46,7 +46,7 @@
                 </ul>
             </li>
             <li>
-                <a href="/enrollment">ENROLLMENT</a>
+                <a href="/enrollment/create">ENROLLMENT</a>
             </li>
             <li>
                 <a href="/login" class="login">LOGIN</a>

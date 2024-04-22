@@ -35,6 +35,9 @@
     <!-- JS -->
     <script defer src="{{ asset('js/front.js') }}"></script>
 
+    <!-- bootstrap -->
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"> -->
+
 </head>
 
 <body>
@@ -79,7 +82,7 @@
         </div>
         <div class="foot-con fc-c">
             <h2 class="foot-mau">Take Action</h2>
-            <a href="/login" class="enroll-bt fen-bt">Enroll Now</a>
+            <a href="/enrollment/create" class="enroll-bt fen-bt">Enroll Now</a>
             <a href="/register" class="footer-a">Create an Account</a>
             <a href="#" class="footer-a">Write a Review</a>
             <h2 class="foot-mau">Explore More</h2>
@@ -110,6 +113,8 @@
         <p>All Rights Reserved, 2024. Made by MGEB CREATION (Ms. Mary Grace Basilio)</p>
     </div>
 
+    <!-- bootstrap -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> -->
 
     <script src="{{ asset('js/slider.js') }}"></script>
 </body>

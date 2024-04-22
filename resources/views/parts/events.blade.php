@@ -27,12 +27,12 @@
      
     <div class="ev-c-con">
         <div class="ev-c-box">
-            <img src="{{ asset('images/prom.jpg') }}" alt="" width="200">
+            <img src="{{ asset('images/seniorgrad.png') }}" alt="" width="200">
         </div>
         <div class="ev-c-box">
-            <h1>School Year Ends, When?</h1>
+            <h1>Graduation of Grade 12 Students</h1>
             <p class="ev-c-box-date">March 6, 2024</p>
-            <p class="ev-c-box-des">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae eveniet aspernatur voluptatem nesciunt.</p>
+            <p class="ev-c-box-des">As we slowly welcome the month of May, we all started having flashbacks, teary eyes and heavy feelings at the same time, joy because we are slowly getting to the end of our hardships. Congratulations Grade 12 students and being part of your family, Dr. Ramon will always be proud and thankful to have you.</p>
             <a href="#">Read More</a>
         </div>
     </div>
@@ -48,34 +48,34 @@
     <div class="ev-f-con ev-f-con-right">
         <div class="ev-f-items">
             <div class="ev-f-list">
-                <img src="{{ asset('images/sp1.jpg') }}" alt="" width="200">
+                <img src="{{ asset('images/blogesport.jpg') }}" alt="" width="200">
             </div>
             <div class="ev-f-list">
-                <h1>11 Wins In Sport Fest 2024</h1>
-                <p class="ev-f-date">March 16, 2024</p>
-                <p class="ev-f-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit illum inventore ut non!</p>
+                <h1>First Esport Team Clinching the Gold</h1>
+                <p class="ev-f-date">March 24, 2024</p>
+                <p class="ev-f-des">Congratulations to our first Esports Team for clinching the GOLD at the Nueva Ecija Provincial Meet 2024!</p>
                 <a href="#" class="ev-f-read">Read More</a>
             </div>
         </div>
         <div class="ev-f-items">
             <div class="ev-f-list">
-                <img src="{{ asset('images/sp1.jpg') }}" alt="" width="200">
+                <img src="{{ asset('images/blogat.jpg') }}" alt="" width="200">
             </div>
             <div class="ev-f-list">
-                <h1>11 Wins In Sport Fest 2024</h1>
-                <p class="ev-f-date">March 16, 2024</p>
-                <p class="ev-f-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit illum inventore ut non!</p>
+                <h1>Ramonian Athletes</h1>
+                <p class="ev-f-date">March 20, 2024</p>
+                <p class="ev-f-des">Let’s pray and cheer our Ramonian Athletes as they compete for the Nueva Ecija Provincial Athletic Meet 2024! </p>
                 <a href="#" class="ev-f-read">Read More</a>
             </div>
         </div>
         <div class="ev-f-items">
             <div class="ev-f-list">
-                <img src="{{ asset('images/sp1.jpg') }}" alt="" width="200">
+                <img src="{{ asset('images/newsbasket.png') }}" alt="" width="200">
             </div>
             <div class="ev-f-list">
-                <h1>11 Wins In Sport Fest 2024</h1>
-                <p class="ev-f-date">March 16, 2024</p>
-                <p class="ev-f-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit illum inventore ut non!</p>
+                <h1>Women's 3x3 Basketball</h1>
+                <p class="ev-f-date">March 23, 2024</p>
+                <p class="ev-f-des">History makers! Our Women's 3x3 Basketball team secures their place in the record books with a phenomenal third consecutive gold at the Provincial Meet. Congratulations! </p>
                 <a href="#" class="ev-f-read">Read More</a>
             </div>
         </div>
@@ -83,12 +83,12 @@
     <div class="ev-f-con">
         <div class="ev-f-items">
             <div class="ev-f-list">
-                <img src="{{ asset('images/sp1.jpg') }}" alt="" width="200">
+                <img src="{{ asset('images/newsbkd.jpg') }}" alt="" width="200">
             </div>
             <div class="ev-f-list">
-                <h1>11 Wins In Sport Fest 2024</h1>
-                <p class="ev-f-date">March 16, 2024</p>
-                <p class="ev-f-des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit illum inventore ut non!</p>
+                <h1>BKD Family</h1>
+                <p class="ev-f-date">March 15, 2024</p>
+                <p class="ev-f-des">Gratitude to our BKD , YES-O , SSLG , MAPEH CLUB , AND OTHER STUDENTS for  their dedication in leading the clean-up drive, preparing for the mural painting contest.</p>
                 <a href="#" class="ev-f-read">Read More</a>
             </div>
         </div>

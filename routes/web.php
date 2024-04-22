@@ -9,6 +9,7 @@ use App\Models\Award;
 use App\Http\Controllers\TeacherController;
 use App\Http\Controllers\AwardController;
 use App\Http\Controllers\EventController;
+use App\Http\Controllers\EnrollmentController;
 
 
 /*
@@ -53,6 +54,9 @@ Route::get('/enrollment', function () {
 });
 
 
+
+
+
 // ADMIN PAGES
 Route::prefix('/admin')->group(function () {
     // AWARD
@@ -80,12 +84,23 @@ Route::get('/dashboard', function () {
 
 // MIDDLEWARE FOR NORMAL LOGIN //
 Route::middleware('auth')->group(function () {
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+    // Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+    // Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
+    // Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+
+    // admin login user can access
+    Route::get('/enrollment-list', [EnrollmentController::class, 'index'])->name('enrollment.index');
+    Route::delete('/enrollment/{enrollment}/destroy', [EnrollmentController::class, 'destroy'])->name('enrollment.destroy');
 });
 
 require __DIR__ . '/auth.php';
+
+// Login User
+
+Route::get('/enrollment/create', [EnrollmentController::class, 'create'])->name('enrollment.create');
+Route::post('/enrollment', [EnrollmentController::class, 'store'])->name('enrollment.store');
+Route::get('/enrollment/{enrollment}/edit', [EnrollmentController::class, 'edit'])->name('enrollment.edit');
+Route::put('/enrollment/{enrollment}/update', [EnrollmentController::class, 'update'])->name('enrollment.update');
 
 
 // TEACHER ROUTE //
@@ -103,4 +118,4 @@ Route::prefix('teacher')->group(function () {
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/profile', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
